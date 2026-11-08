@@ -1,0 +1,5 @@
+RAV4 GR Garage v13 - navegación corregida
+
+Descomprime todo el ZIP y abre index.html en un navegador.
+Los accesos a Mantenimiento, Multas, Consumos y demás secciones ahora son enlaces internos y pueden navegar incluso si el visor de archivos no ejecuta JavaScript.
+Para guardar datos, adjuntar PDFs y usar funciones avanzadas se requiere un navegador que permita JavaScript y almacenamiento; se recomienda publicar la app en HTTPS.
